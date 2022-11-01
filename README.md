@@ -134,8 +134,7 @@ console.log(_.join(['abc', 'def'], '-'))
 `vite`它会帮我们解决。
 
 ## Vite的安装和使用
-注意: `Vite`本身也是依赖`Node`的，所以也需要安装好`Node`环境口
-  - 并且`Vite`要求`Node`版本是大于12版本的;
+注意: `Vite`本身也是依赖`Node`的，所以也需要安装好`Node`环境
 首先，我们安装一下`vite`工具︰
 ```bash
 # 全局安装
